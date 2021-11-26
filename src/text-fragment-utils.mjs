@@ -1,2 +1,1 @@
-import * as utils from "./text-fragment-utils";
-export utils;
+export * from "./text-fragment-utils";
